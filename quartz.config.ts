@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "ko-KR",
     baseUrl: "psguide.skrewbar.com",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "**/*.excalidraw.md"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "local",
