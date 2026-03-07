@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="800"
+   height="800"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="book-open-svgrepo-com.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient2"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#96f392;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+      <stop
+         style="stop-color:#7c93f4;stop-opacity:1;"
+         offset="1"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="linearGradient3"
+       x1="1.9960991"
+       y1="11.998047"
+       x2="22.003899"
+       y2="11.998047"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.509375"
+     inkscape:cx="174.72393"
+     inkscape:cy="432.88344"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1"
+     showborder="true">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="24"
+       height="24"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <path
+     d="M 12,10.4 V 20 m 0,-9.6 C 12,8.15979 12,7.03969 11.564,6.18404 11.1805,5.43139 10.5686,4.81947 9.81596,4.43597 8.96031,4 7.84021,4 5.6,4 h -1 C 4.03995,4 3.75992,4 3.54601,4.10899 3.35785,4.20487 3.20487,4.35785 3.10899,4.54601 3,4.75992 3,5.03995 3,5.6 v 10.8 c 0,0.5601 0,0.8401 0.10899,1.054 0.09588,0.1882 0.24886,0.3411 0.43702,0.437 C 3.75992,18 4.03995,18 4.6,18 h 2.94668 c 0.54019,0 0.81028,0 1.07146,0.0466 0.23181,0.0413 0.45796,0.1097 0.67377,0.204 0.24313,0.1061 0.46786,0.2559 0.91729,0.5556 L 12,20 m 0,-9.6 C 12,8.15979 12,7.03969 12.436,6.18404 12.8195,5.43139 13.4314,4.81947 14.184,4.43597 15.0397,4 16.1598,4 18.4,4 h 1 c 0.5601,0 0.8401,0 1.054,0.10899 0.1882,0.09588 0.3411,0.24886 0.437,0.43702 C 21,4.75992 21,5.03995 21,5.6 v 10.8 c 0,0.5601 0,0.8401 -0.109,1.054 -0.0959,0.1882 -0.2488,0.3411 -0.437,0.437 C 20.2401,18 19.9601,18 19.4,18 h -2.9467 c -0.5402,0 -0.8103,0 -1.0714,0.0466 -0.2319,0.0413 -0.458,0.1097 -0.6738,0.204 -0.2431,0.1061 -0.4679,0.2559 -0.9173,0.5556 L 12,20"
+     stroke="#000000"
+     stroke-width="2"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path1"
+     style="fill:url(#linearGradient3)" />
+</svg>
